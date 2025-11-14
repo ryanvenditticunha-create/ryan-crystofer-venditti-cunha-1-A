@@ -1,0 +1,38 @@
+body{
+font-family: sans-serif;
+color: lab(18.37% 45.41 -45.25 / 0.842);
+}
+
+header{
+    text-align: center;
+
+
+
+}
+
+span{
+    margin: 5px 10px;
+    background-color: oklab(46.951% 0.18822 -0.06721);
+    color: oklab(95.395% -0.06565 0.19537);
+    padding: 5px;
+    border: 3px solid rgb(13, 233, 5);
+    border-radius: 10px;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+p{
+  margin: 20px 0px;
+}
+
+div{
+    background-color: rgb(18, 235, 47);
+  color: #960c84;
+  padding: 20px;
+  border: 10px solid #f9fd02;
+  border-radius: 10px;
+
+}
